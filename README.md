@@ -14,9 +14,9 @@
 
 ## Details about the Data Provided
 There are three possible scenarios mentioned here.
-- Fully Paid: As the category says, the borrower has paid off the whole amount and has cleared the loan
-- Current: As the category says, the borrower is currently in the process of paying off the loan
-- Charged-off: This means that the borrower has defaulted on his/her loan and has not paid back the money
+- __*Fully Paid*__: As the category says, the borrower has paid off the whole amount and has cleared the loan
+- __*Current*__: As the category says, the borrower is currently in the process of paying off the loan
+- __*Charged-off*__: This means that the borrower has defaulted on his/her loan and has not paid back the money
 
 ## Purpose of the Case Study
 - By identifying the factors involved in the defaulting of loans, the bank can then make informed, data-driven decisions on whether a particular applicant is prone to defaulting or can pay off the loan and then accept the application for a loan grant or reject it outright.
